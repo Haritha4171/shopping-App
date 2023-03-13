@@ -1,0 +1,11 @@
+#up{
+    background-color:whitesmoke;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    
+}
+#down{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}

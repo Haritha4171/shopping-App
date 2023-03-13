@@ -1,0 +1,24 @@
+
+body{
+    background-image: url("https://wallpaperaccess.com/full/732316.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    border: 1px solid rgb(197, 233, 181) ;
+    box-shadow: 1px 1px 4px 4px rgb(197, 233, 181);
+}
+#h3{
+    position: absolute;
+    top: 20px;
+    left: 20%;
+}
+
+form{
+    text-align: center;
+}
+.container-fluid{
+    width: 50%;
+    box-shadow: 1px 1px 4px 4px lemonchiffon;
+    border-radius: 10px;
+}
